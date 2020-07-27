@@ -11,5 +11,7 @@
 ###### to run the project:
 * install npm packages listed in package.json using "npm install <package_name>" 
 * run index.js to generate json data using "node index.js"
-* run json-server using "json-server --watch data.json"
+* after above step data.json will be generated
 * run home.html using any web browser
+
+###### application link: https://dataproject-js-nikita.herokuapp.com/home.html
