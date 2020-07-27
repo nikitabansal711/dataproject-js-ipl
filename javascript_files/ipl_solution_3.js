@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
           type: "column",
         },
         title: {
-          text: "NUMBER OF NON-INDIAN UMPIRES",
+          text: "Number of Non-Indian umpires",
         },
         xAxis: {
           type: "category",

@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
           type: "column",
         },
         title: {
-          text: "PLAYERS VS SCORES",
+          text: "Players vs scores of Royal challengers",
         },
         xAxis: {
           type: "category",

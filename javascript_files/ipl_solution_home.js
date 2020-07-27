@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
             type: "column",
           },
           title: {
-            text: "TEAMS VS SCORES",
+            text: "Teams vs total runs",
           },
           xAxis: {
             type: "category",
