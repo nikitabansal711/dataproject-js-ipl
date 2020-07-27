@@ -1,0 +1,86 @@
+#container {
+  height: 800px;
+}
+
+.highcharts-figure,
+.highcharts-data-table table {
+  min-width: 310px;
+  max-width: 800px;
+  margin: 1em auto;
+}
+
+.highcharts-data-table table {
+  font-family: Verdana, sans-serif;
+  border-collapse: collapse;
+  border: 1px solid #ebebeb;
+  margin: 10px auto;
+  text-align: center;
+  width: 100%;
+  max-width: 500px;
+}
+.highcharts-data-table caption {
+  padding: 1em 0;
+  font-size: 1.2em;
+  color: #555;
+}
+.highcharts-data-table th {
+  font-weight: 600;
+  padding: 0.5em;
+}
+.highcharts-data-table td,
+.highcharts-data-table th,
+.highcharts-data-table caption {
+  padding: 0.5em;
+}
+.highcharts-data-table thead tr,
+.highcharts-data-table tr:nth-child(even) {
+  background: #f8f8f8;
+}
+.highcharts-data-table tr:hover {
+  background: #ff7f50;
+}
+@media screen and (max-width: 361px) {
+  #container {
+    width: fit-content;
+    height: 60%;
+    margin-top: 40px;
+    margin-left: 20px;
+  }
+  .button_style {
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+  .flex_box {
+    display: flex;
+    align-items: space-around;
+    justify-content: space-around;
+    width: 100px;
+    height: fit-content;
+  }
+  .flex_box img{
+    height: 20px;
+    width: 20px;
+  }
+}
+@media screen and (min-width: 782px) {
+  #container {
+    width: 90%;
+    height: 600px;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  .button_style {
+    margin-left: 550px;
+  }
+  .flex_box {
+    display: flex;
+    align-items: space-around;
+    justify-content: space-around;
+    width: 300px;
+    height: fit-content;
+  }
+  .flex_box img{
+    height: 40px;
+    width: 40px;
+  }
+}

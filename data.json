@@ -1,0 +1,108 @@
+{
+  "team_season": {
+    "2008": {
+      "Kolkata_Knight_Riders": 13,
+      "Royal_Challengers_Bangalore": 14,
+      "Chennai_Super_Kings": 16,
+      "Kings_XI_Punjab": 15,
+      "Rajasthan_Royals": 16,
+      "Delhi_Daredevils": 14,
+      "Mumbai_Indians": 14,
+      "Deccan_Chargers": 14
+    },
+    "2009": {
+      "Mumbai_Indians": 13,
+      "Chennai_Super_Kings": 14,
+      "Royal_Challengers_Bangalore": 16,
+      "Rajasthan_Royals": 13,
+      "Kings_XI_Punjab": 14,
+      "Delhi_Daredevils": 15,
+      "Kolkata_Knight_Riders": 13,
+      "Deccan_Chargers": 16
+    },
+    "2010": {
+      "Kolkata_Knight_Riders": 14,
+      "Deccan_Chargers": 16,
+      "Mumbai_Indians": 16,
+      "Rajasthan_Royals": 14,
+      "Kings_XI_Punjab": 14,
+      "Delhi_Daredevils": 14,
+      "Royal_Challengers_Bangalore": 16,
+      "Chennai_Super_Kings": 16
+    },
+    "2011": {
+      "Chennai_Super_Kings": 16,
+      "Kolkata_Knight_Riders": 15,
+      "Deccan_Chargers": 14,
+      "Rajasthan_Royals": 13,
+      "Kochi_Tuskers_Kerala": 14,
+      "Royal_Challengers_Bangalore": 16,
+      "Delhi_Daredevils": 14,
+      "Mumbai_Indians": 16,
+      "Kings_XI_Punjab": 14,
+      "Pune_Warriors": 14
+    },
+    "2012": {
+      "Chennai_Super_Kings": 18,
+      "Mumbai_Indians": 17,
+      "Kolkata_Knight_Riders": 17,
+      "Delhi_Daredevils": 18,
+      "Pune_Warriors": 16,
+      "Rajasthan_Royals": 16,
+      "Kings_XI_Punjab": 16,
+      "Royal_Challengers_Bangalore": 15,
+      "Deccan_Chargers": 15
+    },
+    "2013": {
+      "Delhi_Daredevils": 16,
+      "Kolkata_Knight_Riders": 16,
+      "Royal_Challengers_Bangalore": 16,
+      "Mumbai_Indians": 19,
+      "Sunrisers_Hyderabad": 17,
+      "Pune_Warriors": 16,
+      "Rajasthan_Royals": 18,
+      "Chennai_Super_Kings": 18,
+      "Kings_XI_Punjab": 16
+    },
+    "2014": {
+      "Kolkata_Knight_Riders": 16,
+      "Mumbai_Indians": 15,
+      "Delhi_Daredevils": 14,
+      "Royal_Challengers_Bangalore": 14,
+      "Chennai_Super_Kings": 16,
+      "Kings_XI_Punjab": 17,
+      "Sunrisers_Hyderabad": 14,
+      "Rajasthan_Royals": 14
+    },
+    "2015": {
+      "Mumbai_Indians": 16,
+      "Kolkata_Knight_Riders": 13,
+      "Chennai_Super_Kings": 17,
+      "Delhi_Daredevils": 14,
+      "Rajasthan_Royals": 14,
+      "Kings_XI_Punjab": 14,
+      "Sunrisers_Hyderabad": 14,
+      "Royal_Challengers_Bangalore": 16
+    },
+    "2016": {
+      "Mumbai_Indians": 14,
+      "Rising_Pune_Supergiants": 14,
+      "Delhi_Daredevils": 14,
+      "Kolkata_Knight_Riders": 15,
+      "Kings_XI_Punjab": 14,
+      "Gujarat_Lions": 16,
+      "Royal_Challengers_Bangalore": 16,
+      "Sunrisers_Hyderabad": 17
+    },
+    "2017": {
+      "Sunrisers_Hyderabad": 14,
+      "Royal_Challengers_Bangalore": 13,
+      "Mumbai_Indians": 17,
+      "Rising_Pune_Supergiant": 16,
+      "Gujarat_Lions": 14,
+      "Kolkata_Knight_Riders": 16,
+      "Kings_XI_Punjab": 14,
+      "Delhi_Daredevils": 14
+    }
+  }
+}

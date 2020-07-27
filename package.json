@@ -1,0 +1,22 @@
+{
+  "name": "project_4",
+  "version": "1.0.0",
+  "description": "###### technologies used: * Javascript * Html 5 * Css * Bootstrap 4",
+  "main": "index.js",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "highcharts": "^8.1.2",
+    "highcharts-export-server": "^2.0.28",
+    "json-server": "^0.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:mountblue/cohort-13-python/javascript_assignment_nikita.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
