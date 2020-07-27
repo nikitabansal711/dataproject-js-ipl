@@ -8,4 +8,8 @@
 
 ###### the project uses Json-server to fetch data
 
-###### application link : https://javascript-nikita.herokuapp.com/
+###### to run the project:
+* install npm packages listed in package.json using "npm install <package_name>" 
+* run index.js to generate json data using "node index.js"
+* run json-server using "json-server --watch data.json"
+* run home.html using any web browser
