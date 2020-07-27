@@ -3,6 +3,7 @@ const fs = require("fs");
 var sol_dict = {};
 
 function csv_json(csvFile) {
+  //converts csv to json
   var options = {
     delimiter: ",",
     quote: '"',
@@ -13,7 +14,6 @@ function csv_json(csvFile) {
   });
   var result = csvjson.toObject(file_data, options);
   let data = JSON.stringify(result, null, 2);
-  // console.log(result);
   return result;
 }
 
@@ -39,7 +39,7 @@ function total_run_scored(outputFile) {
 }
 
 function player_scores(outputFile) {
-  //This function plots the graph between team players of Royal Challengers Banglore and their scores
+  //This function calculates players of Royal Challengers Banglore and their scores
   var user_dict = {};
   var user_list = [];
   reader = csv_json("./data/deliveries.csv");
@@ -60,7 +60,7 @@ function player_scores(outputFile) {
 }
 
 function umpire_country(outputFile) {
-  //this function plots the graph between number of foreign umpires wrt their nationality
+  //this function plots computes the number of foreign umpires wrt their nationality
   var user_dict = {};
   var user_list = [];
   reader = csv_json("./data/umpires.csv");
@@ -81,7 +81,7 @@ function umpire_country(outputFile) {
 }
 
 function games_teams_season(outputFile) {
-  //this function plots the graph between number of matches played by teams by seasons
+  //this function computes the number of matches played by teams by seasons
   var user_dict = {};
   var user_list = [];
   reader = csv_json("./data/matches.csv");
