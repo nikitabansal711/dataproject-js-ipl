@@ -1,3 +1,5 @@
+//problem 3: plotting number of non-Indian umpires againt nationality
+
 document.addEventListener("DOMContentLoaded", function () {
   fetch("https://my-json-server.typicode.com/nikitabansal711/umpire_country/db")
     .then((response) => response.json())

@@ -1,3 +1,5 @@
+//problem 2: plotting graph between players and corresponding total runs
+
 document.addEventListener("DOMContentLoaded", function () {
   fetch("https://my-json-server.typicode.com/nikitabansal711/players_scores/db")
     .then((response) => response.json())

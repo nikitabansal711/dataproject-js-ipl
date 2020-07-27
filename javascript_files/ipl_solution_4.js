@@ -1,3 +1,5 @@
+//problem 4: plotting graph between number of matches by teams by season
+
 document.addEventListener("DOMContentLoaded", function () {
   fetch("https://my-json-server.typicode.com/nikitabansal711/team_season/db")
     .then((response) => response.json())
@@ -39,7 +41,6 @@ document.addEventListener("DOMContentLoaded", function () {
       }
 
       console.log(data_dict);
-      //hgcscskh
       let teams = Object.keys(data_dict);
       let num_matches = Object.values(data_dict);
       let solution_list = [];
